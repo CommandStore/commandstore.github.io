@@ -1,0 +1,13 @@
+@media (min-width: 576px) {
+}
+
+@media (max-width: 576px) {
+    .store-command {
+        text-align: center;
+    }
+
+    .title-name {
+        font-size: 28px;
+        padding: 12px;
+    }
+}
